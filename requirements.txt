@@ -1,4 +1,4 @@
 django==2.0.5
 Django-crispy-forms
 django-mathfilters
-gnuicorn
+gunicorn==19.9.0
