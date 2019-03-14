@@ -1,2 +1,2 @@
-web: gunicorn assignment2.wsgi --log-file -
+web: gunicorn hansen-mfscrm.wsgi --log-file -
 
