@@ -1,2 +1,2 @@
-web: gunicorn hansen-mfscrm.wsgi --logfile -
+web: gunicorn hansen-mfscrm.wsgi --log-file -
 
